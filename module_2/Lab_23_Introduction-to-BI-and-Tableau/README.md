@@ -2,6 +2,8 @@
 
 # Lab | Introduction to BI and Tableau
 
+Link = (https://public.tableau.com/app/profile/oliver.skelley/viz/Lab4_3_16970311879580/Dashboard1?publish=yes)
+
 ## Introduction
 
 In this lab, we will practice loading data into Tableau, inspecting and modifying data types, and creating tabular views with metrics based on the information contained in the data set. We will be working with the given dataset.
