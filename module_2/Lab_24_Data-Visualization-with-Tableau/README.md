@@ -4,6 +4,9 @@
 
 ## Introduction
 
+Link 1 = (https://public.tableau.com/app/profile/oliver.skelley/viz/Lab_NFL/Dashboard1?publish=yes)
+Link 2 = (https://public.tableau.com/app/profile/oliver.skelley/viz/Maps_16971171389790/Dashboard1?publish=yes)
+
 In this lab, we will practice creating visualizations using the many types of charts and graphs that come with Tableau.
 
 The data we will be creating visualizations for will be an American football team statistics data set. The data contains information about individual games teams played, who the opposing team was, what the scores were, and a variety of statistics describing how the team played. You don't have to be familiar with the sport to create the visualizations for this lab, but if you're interested in gaining some context, you can watch [this YouTube video](https://www.youtube.com/watch?v=3t6hM5tRlfA) for a brief high-level overview and read [this Wikipedia entry](https://en.wikipedia.org/wiki/American_football_strategy) to gain a better understanding of the positions and statistics.
